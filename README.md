@@ -16,8 +16,7 @@ Genetic algorithm  (population test)
 
 ## Final project  
 
-* Final 1   
-Hybrid optimizer (Genetic algorithm + Levenberg-Marquardt + Neural Network)  
+* Final 1   Hybrid optimizer (Genetic algorithm + Levenberg-Marquardt + Neural Network)  
 
 Work flow  
 ![Work](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final1/workflow.png)    
