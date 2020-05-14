@@ -3,7 +3,7 @@
 ## Homework
 * Homework01 
 
-Denoise with Continuity(First order)
+Denoise with Continuity(First order)  
 ![1](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/HW1/first.PNG)  
 
 Denoise with Continuity(Second order)  
@@ -11,13 +11,18 @@ Denoise with Continuity(Second order)
 
 * Homework04  
 
-4*4*4 unit lattice Argon(FCC)  
-![lattice](https://github.com/acctouhou/Introduction-Computational-Materials-Science/blob/master/HW/HW2/fcc.PNG)  
+Genetic algorithm  (population test)
+![ga](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/HW2/population.PNG)  
 
 ## Final project  
 
 * Final 1   
-Adding normal distribution velocity  
-![velocity](https://github.com/acctouhou/Introduction-Computational-Materials-Science/blob/master/HW/HW3/V.gif)  
+Hybrid optimizer (Genetic algorithm + Levenberg-Marquardt + Neural Network)  
+
+Work flow  
+![Work](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final1/workflow.png)    
+
+Result (compare to Genetic algorithm)  
+![Result](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final1/result.png)    
 
 * Final 2   
