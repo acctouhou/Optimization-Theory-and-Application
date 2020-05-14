@@ -4,10 +4,10 @@
 * Homework01 
 
 Denoise with Continuity(First order)
-![1](https://github.com/acctouhou/Introduction-Computational-Materials-Science/blob/master/HW/HW1/LJ.png)  
+![1](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/HW1/first.PNG)  
 
 Denoise with Continuity(Second order)  
-![2](https://github.com/acctouhou/Introduction-Computational-Materials-Science/blob/master/HW/HW1/LJ.png)  
+![2](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/HW1/second.png)  
 
 * Homework04  
 
