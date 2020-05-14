@@ -18,7 +18,6 @@ Genetic algorithm  (population test)
 
 * Final 1   Hybrid optimizer (Genetic algorithm + Levenberg-Marquardt + Neural Network)  
 
-Work flow  
 ![Work](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final1/workflow.png)    
 
 Result (compare to Genetic algorithm)  
@@ -26,10 +25,8 @@ Result (compare to Genetic algorithm)
 
 * Final 2   Hybrid optimizer solved on I-V curve searching  
 
-Work flow  
 ![Work](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final2/%E5%9C%96%E7%89%874.png)    
 
-Data generating  
 ![data](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final2/%E5%9C%96%E7%89%875.png)  
 
 Result (Searching objective I-V curve by tuning 127 design parameter)  
