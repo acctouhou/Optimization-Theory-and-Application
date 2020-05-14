@@ -11,7 +11,7 @@ Denoise with Continuity(Second order)
 
 * Homework04  
 
-Genetic algorithm  (population test)
+Genetic algorithm  (population test)  
 ![ga](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/HW2/population.PNG)  
 
 ## Final project  
@@ -24,4 +24,13 @@ Work flow
 Result (compare to Genetic algorithm)  
 ![Result](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final1/result.png)    
 
-* Final 2   
+* Final 2   Hybrid optimizer solved on I-V curve searching  
+
+Work flow  
+![Work](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final2/%E5%9C%96%E7%89%874.png)    
+
+Data generating  
+![data](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final2/%E5%9C%96%E7%89%875.png)  
+
+Result (Searching objective I-V curve by tuning 127 design parameter)  
+![Result](https://github.com/acctouhou/Optimization-Theory-and-Application/blob/master/HW/final2/result.png)    
